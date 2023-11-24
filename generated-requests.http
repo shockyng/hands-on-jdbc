@@ -1,0 +1,5 @@
+### INIT DATABASE
+POST http://localhost:8080/api
+
+### POPULATE DATABASE
+PUT http://localhost:8080/api
